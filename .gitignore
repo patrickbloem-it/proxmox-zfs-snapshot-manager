@@ -1,0 +1,8 @@
+# Testing artifacts
+*.log
+test-pool/
+*.swp
+*~
+
+# Local config overrides
+config.local.conf
